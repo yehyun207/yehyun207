@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yehyun207
 - 👀 I’m interested in Web and App development
 - 🌱 I’m currently learning flutter and frontend
-- 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me discord and e-mail
+- 📫 How to reach me e-mail
 
 <!---
 yehyun207/yehyun207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
