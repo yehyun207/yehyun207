@@ -21,8 +21,12 @@
 <br>
 </div>
 
-<div align="center">
+<div align="center"><h1>Stats</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=yehyun207&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehyun207&layout=compact"><br><br>
+</div>
+
+<div align="center"><h1>Solved</h1>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qqww7389)](https://solved.ac/qqww7389/)
 </div>
 
 
