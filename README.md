@@ -4,6 +4,7 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/ye.hyun__/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-    <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <a href="https://discord.com/channels/@_byh">
+    <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/channels/@_byh">
 </a>
 </div>
