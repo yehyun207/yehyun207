@@ -1,4 +1,4 @@
-<div align="center">:mailbox: Contacts</div>
+<div align="center">:mailbox: <h1>Contacts</h1></div>
 <div align="center"><a href="https://instagram.com/ye.hyun__/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/ye.hyun__/"
