@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 </div>
-<div align=center><h1>🛠️Tech Stacks🛠️/h1>
+<div align=center><h1>🛠️Tech Stacks🛠️</h1>
 <br>
 
-<h2>✅Can Use✅/h2>
+<h2>✅Can Use✅</h2>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <br>
