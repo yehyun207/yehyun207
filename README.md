@@ -1,4 +1,4 @@
-<div align="center">:mailbox: <h1>📞Contacts</h1></div>
+<div align="center"> <h1>📞Contacts</h1></div>
 <div align="center"><a href="https://instagram.com/ye.hyun__/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/ye.hyun__/"
@@ -9,8 +9,6 @@
 </a>
 </div>
 <div align=center><h1>🛠️Tech Stacks🛠️</h1>
-<br>
-
 <h2>✅Can Use✅</h2>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
